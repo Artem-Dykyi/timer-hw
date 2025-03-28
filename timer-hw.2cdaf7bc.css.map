@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["src/style.css"],"sourcesContent":[".timer-anim {\r\n    width: 50px;\r\n    height: 50px;\r\n    background-color: dodgerblue;\r\n    transition: transform 0.1s ease-in-out; \r\n}"],"names":[],"version":3,"file":"timer-hw.2cdaf7bc.css.map","sourceRoot":"/__parcel_source_root/"}
