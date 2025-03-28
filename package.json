@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "gh-pages": "^6.3.0",
+    "parcel": "^2.14.2"
+  },
+  "name": "timer-hw",
+  "description": "",
+  "version": "1.0.0",
+  "homepage": "",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx parcel src/index.html",
+    "build": "parcel build src/index.html --public-url .",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
